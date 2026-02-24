@@ -103,9 +103,9 @@ This project builds an AI system that understands context instead of keywords an
 ## 👥 Team
 Group 04D1 – Generative AI Project
 
+- Aarushi Mittal
 - Abhiket Thakur
 - Aditya Paliwal
-- Aarushi Mittal
 - Akash Kushwaha
 - Akshay Dashore
 - Akshita Rathore
