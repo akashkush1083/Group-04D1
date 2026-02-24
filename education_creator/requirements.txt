@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+numpy
+requests
+huggingface_hub
+Pillow
+PyPDF2
+python-multipart
+streamlit
